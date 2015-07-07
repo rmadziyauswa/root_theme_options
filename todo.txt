@@ -1,0 +1,115 @@
+default styles.css to include default colors  when user hasnt yet saved new custom colors
+
+theme to have default settings appplied when user hasnt configured the defaults.
+
+Theme options Needed:
+
+Styles category
+===================
+custom css
+headers: h1 to h6
+anchors: normal,hover,visited
+typography: menus,sub-menus,headers, whole body,sidebars
+backgrounds: background-image, background-color
+background colors: menus,headers,sidebars, footer,copyright text area,content
+
+
+
+************************************************
+General Settings
+************************************************
+
+Header Area
+======================
+custom logo
+custom favicon
+site-title position: left,center,right
+site layout: wide, boxed, site-width
+logo alignement to site-title: left,right,top
+
+
+Sidebars and Footers
+==========================
+side-bar percentage of site-width
+default sidebar location: for pages, for posts, for search results etc
+footer background color
+footer background image
+footer number of columns
+footer typography: font family,size,color,
+copyright: text, font settings
+
+
+
+Blog settings
+========================================
+post meta position(tags, category, social sharing): below title, below post, float left of post, float right of post
+blog layout: large,list,grid,
+grid number of columns
+excerpt or full length
+excerpt length
+show/hide featured images
+blog date format
+show/hide author info
+show/hide meta for: tags,categories,number of comments
+
+search settings
+==============================
+content to show in search results: pages,posts,custom types
+number of search results
+search results layout: list,grid,etc
+
+
+**********************************
+Plugin Like territory
+**********************************
+
+
+
+Social
+=================================
+social links for: facebook, googe plus,twitter,instagram,flickr etc
+social links: topmost, in footer area,contacts page only
+social sharing: enabled/disabled
+social sharing options: twitter, facebook, google plus, pinterest
+
+
+
+Backup/restore
+==================
+backup/restore theme options fucntionality
+
+
+
+Sliders
+============================
+slider settings: Use flexslider
+autoplay: yes/no
+slide interval in milliseconds
+effect: scroll,  fade,cover etc
+transition: swing,linear,ease-in,ease-out
+slides made up of: background-color,background-image,title,description
+slide layout: title-only,description-only,title over description
+
+
+
+Contact Page Settings
+===========================
+contact form:
+name from,email from,website from,subject textbox or dropdown list, subject dropdown options, message, show captcha, generate captcha.
+
+Add contact form fields with:
+label for field, type of input, is required true/false,
+
+
+Contact Info:
+Give option to show or not to show
+Email Address
+Phone
+Fax
+Skype
+Adddress
+Google Map longitude/Latitude
+Social networks
+
+
+

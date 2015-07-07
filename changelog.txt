@@ -1,0 +1,17 @@
+Changelog
+---------------------------------
+
+
+Liquid Balnk 1.05 - 22 January 2015
+--------------------------------------------------------------------
+* Removed woocommerce custom templates 
+* Added licencing information in readme.txt and a licence.txt file
+* Removed flexslider.js since it was no longer supported in the theme
+* Added an unminified version of retina.js script
+* Globalized the $content_width of the theme
+* Moved the IE9 check from header.php to a function hooked to wp_head
+* Removed The http protocol for google fonts
+* Updated readme.txt 
+* Added theme support for title-tag
+* Updated resources licenses
+* Created the liquidblank.pot file in languages folder

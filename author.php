@@ -1,0 +1,86 @@
+<?php
+
+/**
+ * The template for displaying posts by a specific author
+ *
+ * @package WordPress
+ * @subpackage Liquid_Blank
+ * @since Liquid Blank 1.0
+ */
+
+
+
+get_header(); ?>
+
+
+	<div id="content-wrapper" class="boxed-width">
+
+		<div class="row">
+
+			<div id="content" class="col-md-9">
+
+			<?php if ( have_posts() ) : ?>
+
+			<header>
+				<h1 >
+					<?php
+						/*
+						 * Queue the first post, that way we know what author
+						 * we're dealing with (if that is the case).
+						 *
+						 * We reset this later so we can run the loop properly
+						 * with a call to rewind_posts().
+						 */
+						the_post();
+
+						printf( __( 'All posts by %s', 'liquidblank' ), get_the_author() );
+					?>
+				</h1>
+				<?php if ( get_the_author_meta( 'description' ) ) : ?>
+				<div><?php the_author_meta( 'description' ); ?></div>
+				<?php endif; ?>
+			</header><!-- .archive-header -->
+
+			<?php
+					/*
+					 * Since we called the_post() above, we need to rewind
+					 * the loop back to the beginning that way we can run
+					 * the loop properly, in full.
+					 */
+					rewind_posts();
+
+					// Start the Loop.
+					while ( have_posts() ) : the_post();
+
+						/*
+						 * Include the post format-specific template for the content. If you want to
+						 * use this in a child theme, then include a file called called content-___.php
+						 * (where ___ is the post format) and that will be used instead.
+						 */
+						get_template_part( 'content', get_post_format() );
+
+					endwhile;
+					// Previous/next page navigation.
+					liquidblank_pagination() ;
+
+				else :
+					// If no content, include the "No posts found" template.
+					get_template_part( 'content', 'none' );
+
+				endif;
+			?>
+
+		</div><!-- #content -->
+
+
+
+<?php get_sidebar(); ?>
+
+
+	</div><!-- .row -->
+
+</div><!-- #content-wrapper -->
+
+<?php
+
+get_footer();

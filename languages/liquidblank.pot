@@ -1,0 +1,546 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: liquidblank\n"
+"POT-Creation-Date: 2015-01-27 12:16+0200\n"
+"PO-Revision-Date: 2015-01-27 12:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\lqblankdemo\\wp-content\\themes"
+"\\liquidblank\n"
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/404.php:20
+msgid "Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/archive.php:25
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/archive.php:28
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/archive.php:31
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/archive.php:34
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/taxonomy-post_format.php:46
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/author.php:36
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/category.php:21
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/comments.php:29
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/comments.php:47
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/comments.php:30
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/comments.php:48
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/comments.php:31
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-aside.php:34
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-audio.php:33
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-gallery.php:34
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-image.php:33
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-link.php:33
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-quote.php:33
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-video.php:33
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content.php:31
+msgid " <i class=\"icon-comment\"></i>  Leave a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-aside.php:34
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-audio.php:33
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-gallery.php:34
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-image.php:33
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-link.php:33
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-quote.php:33
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-video.php:33
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content.php:31
+msgid " <i class=\"icon-comment\"></i>  1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-aside.php:34
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-audio.php:33
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-gallery.php:34
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-image.php:33
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-link.php:33
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-quote.php:33
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-video.php:33
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content.php:31
+msgid " <i class=\"icon-comment\"></i>  % Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-aside.php:37
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-audio.php:36
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-gallery.php:37
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-image.php:36
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-link.php:36
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-page.php:27
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-quote.php:36
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-video.php:36
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content.php:34
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/image.php:29
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-aside.php:45
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-audio.php:43
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-gallery.php:45
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-image.php:43
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-link.php:43
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-quote.php:43
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-video.php:43
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content.php:50
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:124
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:169
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-aside.php:47
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-audio.php:45
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-gallery.php:47
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-image.php:45
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-link.php:45
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-page.php:21
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-quote.php:45
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-video.php:45
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content.php:52
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/image.php:49
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-none.php:17
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/content-none.php:26
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/functions.php:35
+msgid "Main Menu (Primary Menu)"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/functions.php:36
+msgid "Secondary Menu In Topmost Location Above Site Title"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/functions.php:101
+msgid "Main Sidebar (Right)"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/functions.php:103
+msgid "Main sidebar that appears on the right."
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/functions.php:112
+msgid "Left Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/functions.php:114
+msgid "Sidebar that appears on the left."
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/functions.php:123
+msgid "Footer Widget Area"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/functions.php:125
+msgid "Footer Widget Area just above copyright text"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/functions.php:164
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/header.php:71
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/image.php:60
+msgid "Previous Image"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/image.php:61
+msgid "Next Image"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/back-compat.php:37
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/back-compat.php:47
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/back-compat.php:60
+#, php-format
+msgid ""
+"Liquid Blank requires at least WordPress version 3.6. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/customizer.php:19
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/customizer.php:20
+msgid "Background may only be visible on wide screens."
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/customizer.php:28
+msgid "Site Title Color"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/customizer.php:31
+msgid "Display Site Title &amp; Tagline"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/customizer.php:35
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank-featured-content.php:408
+msgid "Featured Content"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/customizer.php:36
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank-featured-content.php:409
+#, php-format
+msgid ""
+"Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match the "
+"tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/customizer.php:50
+msgid "Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/customizer.php:54
+msgid "Grid"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/customizer.php:55
+msgid "Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/customizer.php:99
+msgid "Liquid Blank"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/customizer.php:102
+#, php-format
+msgid ""
+"The home page features your choice of up to 6 posts prominently displayed in "
+"a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can change "
+"the tag and layout in <a href=\"%2$s\">Appearance &rarr; Customize</a>. If "
+"no posts match the tag, <a href=\"%3$s\">sticky posts</a> will be displayed "
+"instead."
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/customizer.php:103
+#, php-format
+msgid ""
+"Enhance your site design by using <a href=\"%s\">Featured Images</a> for "
+"posts you&rsquo;d like to stand out (also known as post thumbnails). This "
+"allows you to associate an image with your post without inserting it. Liquid "
+"Blank uses featured images for posts and pages&mdash;above the title&mdash;"
+"and in the Featured Content area on the home page."
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/customizer.php:104
+#, php-format
+msgid ""
+"For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s"
+"\">Liquid Blank documentation</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank-featured-content.php:431
+msgid "Tag Name"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank-featured-content.php:436
+msgid "Don&rsquo;t display tag on front end."
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_misc_functions.php:106
+msgid "Category : "
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_misc_functions.php:110
+msgid "Categories : "
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_misc_functions.php:219
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/template-tags.php:104
+msgid "Sticky"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:10
+msgid "Theme Options For : Liquid Blank"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:10
+msgid "Theme Options"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:25
+msgid "Customise Your Theme Options"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:32
+msgid "Navigation Options"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:33
+msgid "Copyright Text"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:111
+msgid "Customize Theme Colors"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:112
+msgid "Path to your custom favicon (Include http://)"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:113
+msgid "Do you want to use the top most navigational menu"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:114
+msgid "Use Full Width Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:115
+msgid "Topmost Navigational Menu Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:116
+msgid "Topmost Navigational Menu Text Color"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:117
+msgid "Main Navigational Menu Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:118
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:119
+msgid "Main Navigational Menu Text Color"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:121
+msgid "Main Menu Hover Color"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:122
+msgid "Link Color"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:123
+msgid "Visited Links Color"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:128
+msgid "The font to use on navigational menus"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:129
+msgid "The font to use for your content"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:133
+msgid "Options for your footer area"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:134
+msgid "Footer text for the copyright area"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/liquidblank_theme_options.php:908
+msgid ""
+"Liquid Blank Theme By <a href='http://www.kozmikinc.com'>Kozmik</a>. Proudly "
+"powered by <a href='http://www.wordpress.org'>WordPress</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/template-tags.php:45
+msgid "&larr; Previous"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/template-tags.php:46
+msgid "Next &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/template-tags.php:53
+msgid "Posts navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/template-tags.php:80
+msgid "Post navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/template-tags.php:84
+msgid "<span class=\"meta-nav\">Published In</span>%title"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/template-tags.php:86
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/template-tags.php:87
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:31
+msgid "Liquid Blank Ephemera"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:33
+msgid ""
+"Use this widget to list your recent Aside, Quote, Video, Audio, Image, "
+"Gallery, and Link posts."
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:51
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/taxonomy-post_format.php:28
+msgid "Images"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:52
+msgid "More images"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:55
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/taxonomy-post_format.php:31
+msgid "Videos"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:56
+msgid "More videos"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:59
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/taxonomy-post_format.php:34
+msgid "Audio"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:60
+msgid "More audio"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:63
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/taxonomy-post_format.php:37
+msgid "Quotes"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:64
+msgid "More quotes"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:67
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/taxonomy-post_format.php:40
+msgid "Links"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:68
+msgid "More links"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:71
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/taxonomy-post_format.php:43
+msgid "Galleries"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:72
+msgid "More galleries"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:76
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/taxonomy-post_format.php:25
+msgid "Asides"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:77
+msgid "More asides"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:191
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:191
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:191
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:203
+#, php-format
+msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:252
+msgid "Title:"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:255
+msgid "Number of posts to show:"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/inc/widgets.php:258
+msgid "Post format to show:"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\lqblankdemo\wp-content\themes\liquidblank/tag.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
