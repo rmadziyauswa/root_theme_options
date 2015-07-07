@@ -1,0 +1,29 @@
+div#liquidblank_tabs input[type='text'],div#liquidblank_tabs select, #txtliquidblank_footer_text,#txtliquidblank_contact_address
+{
+	width: 300px;
+}
+
+#txtliquidblank_custom_css,#txtliquidblank_analytics_code
+{
+	width: 450px;
+	height: 350px;
+}
+
+.form-table th
+{
+	width: 400px;
+}
+
+
+.ui-widget-header {
+border: 1px solid #ccc;
+background-color: #FFFFFF;
+color: #ffffff;
+font-weight: bold;
+}
+
+
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited {
+color: #1c94c4;
+text-decoration: none;
+}

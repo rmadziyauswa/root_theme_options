@@ -249,7 +249,7 @@ require get_template_directory() . '/inc/custom-header.php';
 
 
 // Implement Theme Options Page
-require get_template_directory() . '/inc/liquidblank_theme_options.php';
+require get_template_directory() . '/theme_frame/theme_options.php';
 
 // Implement Miscellanous functions
 require get_template_directory() . '/inc/liquidblank_misc_functions.php';
